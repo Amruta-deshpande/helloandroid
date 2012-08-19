@@ -1,9 +1,4 @@
 helloandroid
-============
-
-myfirst app
-:)
-Welcome
-
-hav a nice day..!!
+======
+My First Android App.
 
